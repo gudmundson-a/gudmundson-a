@@ -1,4 +1,4 @@
-# Anton Gudmundsson Holmqvist
+# Anton Holmqvist
 
 **`student`**
 
